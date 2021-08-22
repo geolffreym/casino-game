@@ -1,5 +1,9 @@
 # Casino Game
 [![screenshot](src/assets/images/screenshot.png?raw=true)]()
+
+### Live Demo
+[Heroku Prod](https://damp-reef-52741.herokuapp.com/)
+
 ## Install
 
 ```bash
