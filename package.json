@@ -10,7 +10,7 @@
     "hook": "npm run lint && npm test",
     "lint": "ts-standard",
     "lint:fix": "ts-standard --fix",
-    "test": "jest --verbose --runInBand --detectOpenHandles --forceExit --coverage",
+    "test": "jest --verbose --runInBand --detectOpenHandles --forceExit --coverage -u",
     "start": "node server.js",
     "dev": "cross-env WEBPACK_IS_DEV_SERVER=true NODE_ENV=development webpack serve --config webpack.config.babel.js"
   },
