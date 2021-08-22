@@ -1,4 +1,6 @@
 # Casino Game
+[![Build/Test](https://github.com/geolffreym/casino-game/actions/workflows/ui.yml/badge.svg)](https://github.com/geolffreym/casino-game/actions/workflows/ui.yml)
+
 [![screenshot](src/assets/images/screenshot.png?raw=true)]()
 
 ### Live Demo
